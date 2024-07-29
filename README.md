@@ -19,4 +19,6 @@ This tool is for educational purposes only.
 **Contact:** telegram: https://t.me/pinkblau
 
 
-https://www.youtube.com/watch?v=AzoiExYcQTs&t=2s
+### Video Başlığı
+
+[![Video Açıklaması](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
