@@ -1,1 +1,22 @@
-# instagram-livestream-viewbot
+# Instagram Livestream Viewbot
+
+
+## Features
+- Proxy Usage.
+- Multi Live View Sending.
+- Multi Thread View Sending.
+- Web UI Management Panel.
+- Flask API Integration.
+
+
+
+## Legal
+This tool is for educational purposes only.
+
+
+**Other Tools:** telegram: https://t.me/toolsocial
+
+**Contact:** telegram: https://t.me/pinkblau
+
+
+https://www.youtube.com/watch?v=AzoiExYcQTs&t=2s
